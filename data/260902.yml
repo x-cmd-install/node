@@ -1,0 +1,70 @@
+about:
+  description: Node.js JavaScript runtime ✨🐢🚀✨
+  license: NOASSERTION
+  homepage: https://nodejs.org
+  head: e06b0f1
+  archived: false
+  latestVersion: v26.8.1
+  collectedAt: 2026-09-02T05:10:33Z
+timeline:
+  created: 2014-11-26
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-26
+popularity:
+  star: 120251
+  watcher: 3020
+  fork: 36638
+  release: 515
+  contributor: 3814
+  pullRequest: 28891
+  issue: 20834
+language:
+  JavaScript: 21135193
+  C++: 7171664
+  Python: 2622333
+  C: 665233
+  HTML: 163390
+  Shell: 138095
+  Makefile: 64728
+  Batchfile: 51626
+  Nix: 24077
+  Perl: 16641
+  Emacs Lisp: 14363
+  R: 8037
+  PowerShell: 6176
+  Go Template: 2021
+  TypeScript: 1288
+totalLine: 32084865
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 6
+    mergedPR: 241
+    openPR: 204
+    closedIssue: 57
+    openIssue: 72
+    commit: 372
+  last90d:
+    since: 2026-06-04
+    release: 16
+    mergedPR: 776
+    openPR: 349
+    closedIssue: 246
+    openIssue: 168
+    commit: 1034
+  last180d:
+    since: 2026-03-06
+    release: 29
+    mergedPR: 1439
+    openPR: 446
+    closedIssue: 507
+    openIssue: 238
+    commit: 1844
+  last360d:
+    since: 2025-09-07
+    release: 57
+    mergedPR: 2458
+    openPR: 507
+    closedIssue: 1016
+    openIssue: 308
+    commit: 3091
