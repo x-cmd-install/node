@@ -7,13 +7,13 @@ about:
   head: 68e0ce0
   archived: false
   latestVersion: v26.8.1
-  collectedAt: 2026-09-04T20:05:08Z
+  collectedAt: 2026-09-04T20:34:45Z
 timeline:
   created: 2014-11-26
   lastCommit: 2026-09-04
   lastRelease: 2026-08-26
 popularity:
-  star: 120622
+  star: 120625
   watcher: 3019
   fork: 36665
   release: 515
@@ -95,7 +95,7 @@ total:
   commit: 48256
 ---
 path: /home/runner/.x-repo/github.com/nodejs/node
-collectedAt: 2026-09-04T20:06:29Z
+collectedAt: 2026-09-04T20:36:08Z
 loc:
   Cpp:
     code: 2406733
