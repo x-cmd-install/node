@@ -7,7 +7,7 @@ about:
   latestVersion: "v26.8.2"
   latestRelease: "v26.8.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:13:56Z
+  collectedAt: 2026-09-11T04:32:09Z
 timeline:
   created: 2014-11-26
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 121571
+  star: 121574
   watcher: 3010
-  fork: 36713
+  fork: 36714
   release: 517
   contributor: 3819
-  pullRequest: 42511
-  issue: 20867
+  pullRequest: 42512
+  issue: 20868
 language:
   JavaScript: 21858134
   C++: 7297034
@@ -44,60 +44,60 @@ recent:
     since: 2026-08-12
     release: 5
     mergedPR: 272
-    openPR: 187
+    openPR: 188
     closedIssue: 48
-    openIssue: 69
+    openIssue: 70
     commit: 466
   last60d:
     since: 2026-07-13
     release: 11
     mergedPR: 577
-    openPR: 276
+    openPR: 277
     closedIssue: 144
-    openIssue: 127
+    openIssue: 128
     commit: 868
   last90d:
     since: 2026-06-13
     release: 18
     mergedPR: 852
-    openPR: 338
+    openPR: 339
     closedIssue: 233
-    openIssue: 167
+    openIssue: 168
     commit: 1189
   last180d:
     since: 2026-03-15
     release: 30
     mergedPR: 1513
-    openPR: 448
-    closedIssue: 513
+    openPR: 449
+    closedIssue: 514
     openIssue: 242
     commit: 2009
   last360d:
     since: 2025-09-16
     release: 58
     mergedPR: 2540
-    openPR: 510
-    closedIssue: 1019
+    openPR: 511
+    closedIssue: 1020
     openIssue: 313
     commit: 3258
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 4601
-    openPR: 547
-    closedIssue: 2309
+    openPR: 548
+    closedIssue: 2310
     openIssue: 396
     commit: 5978
 total:
   release: 517
   mergedPR: 13542
-  openPR: 572
-  closedIssue: 20230
-  openIssue: 637
+  openPR: 573
+  closedIssue: 20232
+  openIssue: 636
   commit: 48397
 ---
 path: /home/runner/.x-repo/github.com/nodejs/node
-collectedAt: 2026-09-11T00:20:32Z
+collectedAt: 2026-09-11T04:36:41Z
 loc:
   Cpp:
     code: 2412081
