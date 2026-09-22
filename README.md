@@ -14,19 +14,19 @@ x install node
 
 ## Code insight
 
-Total: **12,755,248** lines of code across **35868** files in the top 5 languages.
+Total: **12,757,104** lines of code across **35871** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 2,420,042 | 294,820 | 312,155 | 3911 |
-| CHeader | 2,092,870 | 678,805 | 360,743 | 7454 |
-| JavaScript | 1,905,084 | 293,537 | 244,327 | 23274 |
+| Cpp | 2,421,007 | 294,796 | 311,934 | 3911 |
+| CHeader | 2,092,949 | 678,821 | 360,756 | 7454 |
+| JavaScript | 1,905,872 | 293,587 | 244,430 | 23277 |
 | AssemblyGAS | 1,892,708 | 10,164 | 230,531 | 855 |
 | Perl | 1,734,644 | 26,302 | 30,497 | 374 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v26.9.0` (2026-09-16)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 122,028 · **Forks**: 37,483 · **Open issues**: 20,893 · **Contributors**: 3,830
+- **Stars**: 122,032 · **Forks**: 37,499 · **Open issues**: 20,897 · **Contributors**: 3,832
 
 ## Totals (cumulative)
 
-- **Releases**: 518 · **Merged PRs**: 13653 · **Open PRs**: 560 · **Closed issues**: 20273 · **Open issues**: 620 · **Commits**: 48577
+- **Releases**: 518 · **Merged PRs**: 13661 · **Open PRs**: 569 · **Closed issues**: 20280 · **Open issues**: 617 · **Commits**: 48587
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 6 | 265 | 168 | 47 | 62 | 420 |
-| last60d | 2026-07-23 | 12 | 600 | 249 | 137 | 114 | 911 |
-| 90d | 2026-06-23 | 16 | 867 | 317 | 230 | 155 | 1231 |
-| last180d | 2026-03-25 | 27 | 1569 | 434 | 510 | 232 | 2091 |
-| 360d | 2025-09-26 | 57 | 2613 | 498 | 1012 | 301 | 3371 |
-| last720d | 2024-10-01 | 100 | 4627 | 534 | 2305 | 381 | 6028 |
+| 30d | 2026-08-23 | 6 | 266 | 177 | 45 | 62 | 431 |
+| last60d | 2026-07-24 | 12 | 598 | 258 | 137 | 114 | 922 |
+| 90d | 2026-06-24 | 14 | 865 | 326 | 226 | 155 | 1242 |
+| last180d | 2026-03-26 | 27 | 1574 | 443 | 508 | 235 | 2102 |
+| 360d | 2025-09-27 | 57 | 2617 | 507 | 1011 | 303 | 3382 |
+| last720d | 2024-10-02 | 100 | 4627 | 543 | 2306 | 382 | 6036 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for node lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:56:05Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:32Z._
