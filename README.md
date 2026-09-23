@@ -4,7 +4,7 @@
 
 Node.js JavaScript runtime ✨🐢🚀✨
 
-[![x-cmd/install — node Code Quality Monitoring Repo Card](https://repo.x-cmd.io/node.svg)](https://x-cmd.com/install/node)
+[![x-cmd/install — node Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/node.svg)](https://x-cmd.com/install/node)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install node
 
 ## Code insight
 
-Total: **12,757,104** lines of code across **35871** files in the top 5 languages.
+Total: **12,758,220** lines of code across **35875** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 2,421,007 | 294,796 | 311,934 | 3911 |
-| CHeader | 2,092,949 | 678,821 | 360,756 | 7454 |
-| JavaScript | 1,905,872 | 293,587 | 244,430 | 23277 |
+| Cpp | 2,421,028 | 294,796 | 311,939 | 3911 |
+| CHeader | 2,092,955 | 678,822 | 360,758 | 7454 |
+| JavaScript | 1,906,940 | 293,669 | 244,573 | 23281 |
 | AssemblyGAS | 1,892,708 | 10,164 | 230,531 | 855 |
 | Perl | 1,734,644 | 26,302 | 30,497 | 374 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v26.9.0` (2026-09-16)
-- **Last commit**: 2026-09-22
+- **Latest**: `v26.10.0` (2026-09-22)
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 122,032 · **Forks**: 37,499 · **Open issues**: 20,897 · **Contributors**: 3,832
+- **Stars**: 122,045 · **Forks**: 37,506 · **Open issues**: 20,904 · **Contributors**: 3,832
 
 ## Totals (cumulative)
 
-- **Releases**: 518 · **Merged PRs**: 13661 · **Open PRs**: 569 · **Closed issues**: 20280 · **Open issues**: 617 · **Commits**: 48587
+- **Releases**: 519 · **Merged PRs**: 13674 · **Open PRs**: 577 · **Closed issues**: 20288 · **Open issues**: 616 · **Commits**: 48608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 266 | 177 | 45 | 62 | 431 |
-| last60d | 2026-07-24 | 12 | 598 | 258 | 137 | 114 | 922 |
-| 90d | 2026-06-24 | 14 | 865 | 326 | 226 | 155 | 1242 |
-| last180d | 2026-03-26 | 27 | 1574 | 443 | 508 | 235 | 2102 |
-| 360d | 2025-09-27 | 57 | 2617 | 507 | 1011 | 303 | 3382 |
-| last720d | 2024-10-02 | 100 | 4627 | 543 | 2306 | 382 | 6036 |
+| 30d | 2026-08-24 | 7 | 270 | 185 | 47 | 65 | 442 |
+| last60d | 2026-07-25 | 13 | 599 | 267 | 138 | 115 | 933 |
+| 90d | 2026-06-25 | 14 | 868 | 334 | 228 | 157 | 1253 |
+| last180d | 2026-03-27 | 28 | 1579 | 451 | 511 | 237 | 2113 |
+| 360d | 2025-09-28 | 58 | 2623 | 515 | 1014 | 303 | 3393 |
+| last720d | 2024-10-03 | 100 | 4631 | 551 | 2314 | 381 | 6049 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for node lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:43:18Z._
