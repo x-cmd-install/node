@@ -43,14 +43,14 @@
   "body": "\n\n\n### Commits\n\n* \\[[`2dc4638e85`](https://github.com/nodejs/node/commit/2dc4638e85)] - _**Revert**_ \"**build**: toggle doc-kit verbosity based on V\" (Antoine du Hamel)\n* \\[[`3febbc54ec`](https://github.com/nodejs/node/commit/3febbc54ec)] - _**Revert**_ \"**build, doc**: move to redesign\" (Antoine du Hamel)\n* \\[[`173250e2e7`](https://github.com/nodejs/node/commit/173250e2e7)] - _**Revert**_ \"**tools**: bump the doc group in /tools/doc with 4 updates\" (Antoine du Hamel)\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/nodejs/node/releases/406258359/reactions",
-    "total_count": 2,
-    "+1": 0,
+    "total_count": 9,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
     "confused": 0,
-    "heart": 0,
-    "rocket": 0,
+    "heart": 1,
+    "rocket": 1,
     "eyes": 0
   }
 }
