@@ -43,13 +43,13 @@
   "body": "### Notable Changes\r\n\r\nThis release marks the transition of Node.js 26.x into Long Term Support (LTS)\r\nwith the codename 'Lithium'. It will continue to receive updates through to\r\nthe end of April 2029.\r\n\r\nOther than updating metadata, such as the `process.release` object, to reflect\r\nthat the release is LTS, no further changes from Node.js 26.12.1 are included.\r\n\r\nIf you are updating from an earlier Long Term Support release (e.g. Node.js 24\r\nor 22 or earlier) please note that since Node.js 25 the official binaries for\r\nLinux are linked against libatomic, which may need to be installed separately\r\ndepending on your Linux distribution.",
   "reactions": {
     "url": "https://api.github.com/repos/nodejs/node/releases/426947052/reactions",
-    "total_count": 49,
+    "total_count": 51,
     "+1": 13,
     "-1": 0,
     "laugh": 0,
-    "hooray": 19,
+    "hooray": 20,
     "confused": 0,
-    "heart": 7,
+    "heart": 8,
     "rocket": 10,
     "eyes": 0
   }
